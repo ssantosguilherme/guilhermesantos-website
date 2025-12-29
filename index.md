@@ -3,7 +3,7 @@ layout: home
 title: Início
 ---
 
-<div style="text-align: center;">
+<div style="text-align: left;">
     <img src="/assets/imagens/logo_gs_grande.png" alt="Cabeçalho" style="max-width: 40%; height: auto; border-radius: 8px;">
 </div>
 
