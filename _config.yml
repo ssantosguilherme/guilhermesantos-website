@@ -2,6 +2,9 @@ title: Guilherme Santos
 description: Engenharia de Software Embarcado & Hardware
 theme: minima
 
+# Caminho para o ícone da aba do navegador
+favicon: /assets/images/favicon.png
+
 # Isso criará os links automaticamente no menu do topo
 header_pages:
   - index.md
