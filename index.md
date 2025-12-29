@@ -1,12 +1,12 @@
 ---
 layout: home
 title: Início
+---
 
 <div style="text-align: center;">
     <img src="/assets/imagens/logo_gs_grande.png" alt="Cabeçalho" style="max-width: 100%; height: auto; border-radius: 8px;">
 </div>
 
----
 
 # Olá, eu sou o Guilherme Santos.
 
