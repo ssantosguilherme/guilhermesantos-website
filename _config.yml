@@ -5,6 +5,7 @@ theme: minima
 # Isso criará os links automaticamente no menu do topo
 header_pages:
   - index.md
-  - projects.md # projetos pessoais e profissionais
-  - extra.md
-  - blog.md #filosofias e experiencias
+  - projetos.md
+  - aprendizados.md
+  - entretenimento.md
+  - filosofias.md
