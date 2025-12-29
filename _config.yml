@@ -1,7 +1,10 @@
 title: Guilherme Santos
-email: guistech@gmail.com
-description: >- # descrição do seu perfil
-  Minhas anotações aleatórias e perfil pessoal.
-baseurl: "" 
-url: "https://guilhermesantos.dev.br"
+description: Engenharia de Software Embarcado & Hardware
 theme: minima
+
+# Isso criará os links automaticamente no menu do topo
+header_pages:
+  - index.md
+  - projects.md # projetos pessoais e profissionais
+  - extra.md
+  - blog.md #filosofias e experiencias
