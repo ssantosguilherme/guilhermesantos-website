@@ -5,7 +5,13 @@ title: Início
 
 # Você está na página de Guilherme Santos.
 
-Sou desenvolvedor focado em **Sistemas Embarcados, Firmware e Hardware**. Este site é o meu "jardim digital" — um lugar onde documento meus projetos, compartilho aprendizados técnicos (como as andanças pelo G-Code) e publico alguns pensamentos sobre a vida.
+De Ribeirão Preto/SP, nascido em 1992, é definido pela calma e capacidade de observação. Nas cidades, observa as arquiteturas locais, padrões de movimento e comportamento; na natureza, reflete sobre o estado inicial e bruto da forma. Considera críticas construtivas as principais oportunidades para melhoria contínua. Entende que elogios são bem-vindos, desde que não se tornem uma armadilha que leve ao conforto estagnado.
+
+Sustenta a premissa de que absolutamente tudo possui margem para melhoria, embora reconheça que, no âmbito profissional e comercial, fatores externos determinem a real necessidade de cada ajuste.
+
+Em sua atuação, a qualidade precede a agilidade. Existe a convicção de que o resultado final é o reflexo direto da excelência aplicada em cada pequena etapa do projeto; se as etapas são negligenciadas, o todo é comprometido. Frequentemente recorre à máxima: 'Diz-se não ter tempo para fazer corretamente, mas precisa-se encontrar tempo para fazer duas vezes'.
+
+Crítico do imediatismo contemporâneo, observa que a velocidade é frequentemente confundida com a remoção de etapas fundamentais. A otimização de um processo é o que permite atingir resultados rápidos com qualidade, contrastando com a tendência atual de sacrificar o rigor técnico em favor de uma entrega acelerada.
 
 ---
 
