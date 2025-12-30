@@ -5,13 +5,16 @@ title: Início
 
 # Você está na página de Guilherme Santos.
 
-De Ribeirão Preto/SP, nascido em 1992, é definido pela calma e capacidade de observação. Nas cidades, observa as arquiteturas locais, padrões de movimento e comportamento; na natureza, reflete sobre o estado inicial e bruto da forma. Considera críticas construtivas as principais oportunidades para melhoria contínua. Entende que elogios são bem-vindos, desde que não se tornem uma armadilha que leve ao conforto estagnado.
+De Ribeirão Preto/SP, nascido em 1992, geralmente com muita calma e observando como as coisas funcionam. Na cidade, as arquiteturas locais, os padrões de movimento e o comportamento chamam atenção; na natureza, a reflexão recai sobre o estado inicial e bruto da forma.
 
-Sustenta a premissa de que absolutamente tudo possui margem para melhoria, embora reconheça que, no âmbito profissional e comercial, fatores externos determinem a real necessidade de cada ajuste.
+Críticas construtivas são as principais oportunidades para melhoria contínua. Os elogios são bem-vindos, desde que não se tornem uma armadilha que leve ao conforto estagnado.
 
-Em sua atuação, a qualidade precede a agilidade. Existe a convicção de que o resultado final é o reflexo direto da excelência aplicada em cada pequena etapa do projeto; se as etapas são negligenciadas, o todo é comprometido. Frequentemente recorre à máxima: 'Diz-se não ter tempo para fazer corretamente, mas precisa-se encontrar tempo para fazer duas vezes'.
+Absolutamente tudo possui margem para melhoria, embora, no âmbito profissional e comercial, fatores externos determinem a real necessidade de avanços de desenvolvimento.
 
-Crítico do imediatismo contemporâneo, observa que a velocidade é frequentemente confundida com a remoção de etapas fundamentais. A otimização de um processo é o que permite atingir resultados rápidos com qualidade, contrastando com a tendência atual de sacrificar o rigor técnico em favor de uma entrega acelerada.
+Qualidade precede a agilidade. Um resultado final é o reflexo direto da excelência aplicada em cada etapa do projeto; se as etapas são negligenciadas, o todo é comprometido. Frequentemente recorre à máxima: 'Diz-se não ter tempo para fazer corretamente, mas é preciso encontrar tempo para fazer duas vezes'.
+
+O imediatismo contemporâneo geralmente é mal interpretado. Há casos em que a velocidade é atingida com a remoção de etapas fundamentais.
+A otimização de um processo é o que permite atingir resultados rápidos com qualidade, o que vai contra a tendência atual de sacrificar o rigor técnico em favor de uma entrega acelerada.
 
 ---
 
