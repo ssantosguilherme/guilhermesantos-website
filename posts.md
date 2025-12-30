@@ -4,8 +4,8 @@ title: Posts
 permalink: /posts/
 ---
 
-### Experiências profissionais
-Aqui compartilho alguns projetos de bons resultados.
+### Posts gerais
+Aqui compartilho conhecimento que julgo ser importante para alguma coisa.
 
 <ul>
   {% for item in site.posts %}
