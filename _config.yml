@@ -3,13 +3,9 @@
 description: Engenharia de Software Embarcado & Hardware
 theme: minima
 
-# Caminho para o ícone da aba do navegador
-favicon: /assets/imagens/favicon.png
-
 # Isso criará os links automaticamente no menu do topo
 header_pages:
   - index.md
-  - projetos.md
-  - aprendizados.md
-  - entretenimento.md
+  - profissional.md
+  - posts.md
   - filosofias.md
