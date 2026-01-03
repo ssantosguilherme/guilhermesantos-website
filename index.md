@@ -1,21 +1,9 @@
 ---
 layout: home
-title: Início
+title: Home
 ---
 
-# Você está na página de Guilherme Santos.
-
-De Ribeirão Preto/SP, nascido em 1992, geralmente com muita calma e observando como as coisas funcionam.
-
----
-
-## No que eu trabalho
-* **Firmware:** Desenvolvimento em C/C++ para microcontroladores (Bare metal e RTOS).
-* **Hardware:** Design de placas de circuito impresso e prototipagem.
-* **Software:** Desenvolvimento de ferramentas de suporte e integração.
-
-## Experiências e Aprendizados
- Recentemente, tive que mergulhar no mundo do **G-Code** para usinar peças mecânicas para um projeto — uma prova de que na engenharia, o aprendizado nunca para.
+# Em construção.
 
 ---
 
