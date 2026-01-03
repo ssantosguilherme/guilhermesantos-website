@@ -7,8 +7,8 @@ title: Home
 
 ---
 
-## Últimas Notas e Reflexões
-*Abaixo você encontrará meus posts mais recentes (posts da pasta `_posts` aparecerão aqui automaticamente):*
+## Últimas atualizações.
+*Abaixo você encontrará as últimas atualizações. (posts da pasta `_posts` aparecerão aqui automaticamente):*
 
 <ul>
   {% for post in site.posts limit:5 %}
