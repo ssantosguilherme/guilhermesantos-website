@@ -8,3 +8,6 @@ header_pages:
   - index.md
   - profissional.md
   - posts.md
+
+exclude: [webcam.html]  # Se quiser excluir do build principal
+
